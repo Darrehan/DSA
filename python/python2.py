@@ -1,6 +1,6 @@
-# coding for 100 days of code
+# coding for BMI calculator
 print("welcome to the BMI calculator.")
-# implicit coversion of data type ie type casting
+# explicit coversion of data type ie type casting
 weight=input("what is your weight in kg buddy ?\n")
 height=input("what is height in m buddy ?\n")
 weight_1=int(weight)

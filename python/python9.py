@@ -1,4 +1,4 @@
-#coding for 100 days of code
+#coding for tresure island
 # ASCII art
 print('''
 *******************************************************************************

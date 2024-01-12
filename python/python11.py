@@ -1,4 +1,4 @@
-# coding for 100 days of code
+# coding for treasure map
 line1 = ["⬜️","️⬜️","️⬜️"]
 line2 = ["⬜️","⬜️","️⬜️"]
 line3 = ["⬜️️","⬜️️","⬜️️"]

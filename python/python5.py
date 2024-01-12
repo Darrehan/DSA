@@ -1,4 +1,4 @@
-# Day-3 coding for 100 days of code
+# coding for pizza delivery
 print("Thank you for choosing  Pizza Deliveries!")
 size = input("What size pizza do you want? s, m, or l\n") 
 add_pepperoni = input("Do you want pepperoni? y or n\n") 

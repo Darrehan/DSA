@@ -1,4 +1,4 @@
-# coding for 100 days of code
+# coding for bmi calculator
 height = float(input("enter your height in m:"))
 # doign explicit type casting
 weight = int(input("enter your weight in kg:"))

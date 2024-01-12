@@ -1,4 +1,4 @@
-# coding for 100 days of code
+# coding for random module
 import random
 names=["rehan","arman","sultan",  "khan","arif"]
 total_size=len(names)

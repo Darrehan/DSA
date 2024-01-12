@@ -1,4 +1,4 @@
-# coding for 100 days of code
+# coding for average height calculator
 student_heights = input("enter the students height here buddy ").split()
 for n in range(0, len(student_heights)):
   student_heights[n] = int(student_heights[n])

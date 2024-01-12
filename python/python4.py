@@ -1,4 +1,4 @@
-# Day-3 coding for 100 days of code
+# This is a program to calculate the score between two people
 print("The  Calculator is calculating your score...")
 name1 = input("What is your name?") 
 name2 = input("What is their name?") 

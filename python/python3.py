@@ -1,4 +1,4 @@
-#coding for 100 days of code
+#coding for tip calculator
 print("welcome to the tip calculator buddy.")
 total_Bill=input("What was the total bill buddy ie Rs?\n")
 total_tip=input("What percentage tip you wana give to the person buddy ie 10,12,11?\n")

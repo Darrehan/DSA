@@ -1,4 +1,4 @@
-# coding for 100 days of code
+# coding for rock paper scissor game
 import random
 rock = '''
     _______

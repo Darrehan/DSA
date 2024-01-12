@@ -1,4 +1,4 @@
-#coding for 100 days of code
+#coding for roller coster calculator
 print("welcome to the Roller coster buddy 😌!")
 # doing explicit type casting
 height=int(input("what is your height in cm buddy ?\n"))
