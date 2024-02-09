@@ -6,7 +6,7 @@ height_score=0
 for student in student_scores:
   if student>height_score:
      height_score=student
-print(f"The highest score in the class is: {height_score}")
+print(f"The highest score in the class is:{height_score}")
 # this is the code for fizzbuzz game
 for number in range(1,101):
   if number%3==0 and number%5==0:
