@@ -1,4 +1,4 @@
-/* Arrays basic*/
+/* Arrays basic */
 #include <stdio.h>
 int main()
 {
