@@ -1,7 +1,7 @@
 # coding for random module
 import random
 
-from sympy import N
+from sympy import N # type: ignore
 names=["rehan","arman","sultan",  "khan","arif"]
 total_size=len(names)
 # here list index start from 0 to 4
